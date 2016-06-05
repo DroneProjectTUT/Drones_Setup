@@ -1,4 +1,5 @@
 #NOTE: 18.02.2016 11:12.39 Frame : H
+#NOTE: Evgenia Udod, Lauri Kurs. Drones Settings. Stable configuration for H-Frame.
 ACRO_BAL_PITCH,1
 ACRO_BAL_ROLL,1
 ACRO_EXPO,0.3
